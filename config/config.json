@@ -1,0 +1,9 @@
+{
+    "url": "https://demo.vidhyan.co.in",
+    "school_code": "CHAI2025",
+    "username_or_email": "admin@chaitanya.edu.in",
+    "password": "Demo@1234",
+    "dashboard_url":"https://demo.vidhyan.co.in/app/dashboard",
+    "wrong_school_code":"1234"
+
+}

@@ -1,0 +1,36 @@
+__pycache__
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Test reports (optional)
+htmlcov/
+.coverage
+
+# Screenshots (optional - if you don't want to push them)
+reports/screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
